@@ -1,5 +1,5 @@
-# Projects-Evaluation-Criteria
+# Evaluation-Criteria-for-Financial-Projects
 
-Here you can find some of different types projects evaluation criteria exercises made using excel; from Capital Budgeting to Bonds & Stocks.
+Here you can find some of different types Evaluation Criteria for Financial Projects exercises made using excel; from Capital Budgeting to Bonds & Stocks.
 
-To open the works just click on "Projects Evaluation Criteria Folder", click on the specific file & on "View raw" for the excel sheet download.
+To open the works just click on "Evaluation Criteria for Financial Projects Folder", click on the specific file & on "View raw" for the excel sheet download.
