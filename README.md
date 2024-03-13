@@ -1,4 +1,4 @@
-# Financial-Analysis
+# Projects-Evaluation-Criteria
 
 Here you can find some of different types of excel exercises. They are incentrate on projects evaluation criteria & portfolio stock/bond analysis.
 
